@@ -1,0 +1,3 @@
+int a = 67;
+int b = 33;
+int c = a+b;
